@@ -62,7 +62,12 @@ Compared to the original course version:
 ✔ Cleaner structure
 ✔ Better styling
 ✔ Extended logic
+
+
 📸 Preview
+
+<img width="1016" height="1312" alt="image" src="https://github.com/user-attachments/assets/b64f8dd3-a38f-463c-b34d-d80d56cb8553" />
+
 
 📚 Learning Source
 
